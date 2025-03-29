@@ -67,5 +67,5 @@ $ python3 manage.py runserver
 
 ## Connect with me
 
-- Github [https://github.com/shishir085]
-- Linkedin [https://www.linkedin.com/in/shishirpandey085/]
+- [Github](https://github.com/shishir085)
+- [Linkedin](https://www.linkedin.com/in/shishirpandey085/)
